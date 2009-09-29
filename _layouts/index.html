@@ -43,6 +43,7 @@
     		<h2 class="title">Latest News</h2>
     		<div>
 		{% for post in site.categories.news limit:10 %}
+		<span style="float:right; font-size:x-small">{{ post.date }}</span>
 		<h4 class="news">{{ post.title  }}</h4>
 		{{ post.content }}
 		{% endfor %}
