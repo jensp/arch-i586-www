@@ -15,3 +15,14 @@ Arch Linux on i586 Release files:
 
 [i586 Core USB Image](iso/archlinux-2009.08-core-i586.iso)
 </div>
+
+Repo Mirrors:
+-------------
+	[core]
+	Server = http://chaox.net/~jens/arch-i586/core
+	[extra]
+	Server = http://chaox.net/~jens/arch-i586/extra
+	[community]
+	Server = http://chaox.net/~jens/arch-i586/community
+	[misc]
+	Server = http://chaox.net/~jens/arch-i586/misc
